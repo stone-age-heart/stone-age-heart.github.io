@@ -1,0 +1,27 @@
+Body{
+    font-family: Lato, sans-serif;
+    color: #747704;
+    font-weight:400;
+}
+
+.text-muted{
+    color:dimgrey;
+}
+
+.text-thin{
+    font-weight:300;
+}
+
+.ultra-title{
+    font-size:50px;
+}
+
+.top-logo{
+    margin-top: 20px;
+    width:100px;
+}
+
+h3{
+    margin-top:5px;
+    margin-bottom:15px;
+}

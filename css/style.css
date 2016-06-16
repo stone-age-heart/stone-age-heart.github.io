@@ -20,3 +20,19 @@ Body{
     margin-top: 20px;
     width:100px;
 }
+
+.pull-right {
+  float: right !important;
+}
+
+.top-buffer{
+    margin-top: 75px;
+}
+
+.bottom-buffer{
+    margin-bottom: 10px;
+}
+
+.close-text{
+    margin-top:0px;
+}

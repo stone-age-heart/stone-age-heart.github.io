@@ -21,18 +21,7 @@ Body{
     width:100px;
 }
 
-.pull-right {
-  float: right !important;
-}
-
-.top-buffer{
-    margin-top: 75px;
-}
-
-.bottom-buffer{
-    margin-bottom: 10px;
-}
-
-.close-text{
-    margin-top:0px;
+h3{
+    margin-top:5px;
+    margin-bottom:15px;
 }
